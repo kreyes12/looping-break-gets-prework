@@ -1,6 +1,7 @@
 
 def levitation_quiz
-	until 
+	loop do
+	  puts levitation_quiz
 end
 
 
